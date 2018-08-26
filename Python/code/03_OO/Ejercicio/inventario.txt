@@ -1,0 +1,7 @@
+refrescos 0
+papas 90
+leche 50
+dulces 40
+fruta 35
+aparatos 60
+medicina 19

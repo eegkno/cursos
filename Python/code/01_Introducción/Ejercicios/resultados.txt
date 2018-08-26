@@ -1,0 +1,5 @@
+			Tablas de multiplicar
+5 x 8 = 40 
+6 x 6 = 36 
+9 x 9 = 81 
+La diferencia entre una lista y una tupla es que las tuplas son inmutables y las listas no.
