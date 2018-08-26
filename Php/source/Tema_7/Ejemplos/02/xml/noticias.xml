@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<bloque>
+
+<noticia>
+<editorial>www.blogenergiasostenible.com</editorial>
+<titulo>Que dice el World Energy Outlook 2012 sobre las energias sostenibles?</titulo> 
+<autor>www.blogenergiasostenible.com</autor> 
+<archivo>bioenergias_WEOutlook10ene.pdf</archivo> 
+<pais>Internacional</pais> 
+<fecha>10 de enero del 2013</fecha>
+</noticia>
+
+<noticia>
+<editorial>Comite de Informatica</editorial>
+<titulo>ETDEWEB World Energy Base</titulo> 
+<autor>Instituto de Investigaciones Electricas</autor> 
+<archivo>IIE_ETDWEB.pdf</archivo> 
+<pais>Mexico</pais> 
+<fecha>8 de enero del 2013</fecha>
+</noticia> 
+
+<noticia>
+<editorial>Informador.com.mx</editorial>
+<titulo>Alemania logra un nuevo record de plantas e instalaciones solares</titulo> 
+<autor>EFE/LEER</autor> 
+<archivo>efe_alemania5ene.pdf</archivo> 
+<pais>Internacional</pais> 
+<fecha>5 de enero del 2013</fecha>
+</noticia> 
+
+</bloque>
