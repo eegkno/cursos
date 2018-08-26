@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app>
+	<servlet>
+		<servlet-name>ServletAnimalControlActualizar</servlet-name>
+		<servlet-class>control.ServletAnimalControlActualizar</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ServletAnimalControlActualizar</servlet-name>
+		<url-pattern>/servlet/ServletAnimalControlActualizar</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>ServletAnimalControlInsertar</servlet-name>
+		<servlet-class>control.ServletAnimalControlInsertar</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ServletAnimalControlInsertar</servlet-name>
+		<url-pattern>/servlet/ServletAnimalControlInsertar</url-pattern>
+	</servlet-mapping>
+</web-app>

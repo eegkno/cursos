@@ -1,0 +1,5 @@
+driverclassname=org.bd.Driver
+dburl=jdbc:mysql://127.0.0.1/
+base=prueba
+username=root
+Password=hola123

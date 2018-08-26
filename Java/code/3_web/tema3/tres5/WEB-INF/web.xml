@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app>
+  	<context-param>
+    		<param-name>DBParameters</param-name>
+    		<param-value>files/DBParameters.txt</param-value>
+  	</context-param>
+
+   	<listener>
+    		<listener-class>TestContextListener</listener-class>
+  	</listener>
+
+  	<servlet>
+    		<servlet-name>TestServlet</servlet-name>
+    		<servlet-class>TestServlet</servlet-class>
+  	</servlet>
+  
+    	<servlet-mapping>
+		<servlet-name>TestServlet</servlet-name>
+		<url-pattern>/servlet/TestServlet</url-pattern>
+  	</servlet-mapping>
+</web-app>
+

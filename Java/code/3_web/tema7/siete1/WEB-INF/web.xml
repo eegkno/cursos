@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app>
+	<servlet>
+		<servlet-name>ServletAnimalControl</servlet-name>
+		<servlet-class>control.ServletAnimalControl</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ServletAnimalControl</servlet-name>
+		<url-pattern>/servlet/ServletAnimalControl</url-pattern>
+	</servlet-mapping>
+</web-app>

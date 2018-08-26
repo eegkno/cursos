@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app>
+	<servlet>
+		<servlet-name>SeleccionaUsuarios</servlet-name>
+		<servlet-class>SeleccionaUsuarios</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>SeleccionaUsuarios</servlet-name>
+		<url-pattern>/servlet/SeleccionaUsuarios</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>InsertaUsuario</servlet-name>
+		<servlet-class>InsertaUsuario</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>InsertaUsuario</servlet-name>
+		<url-pattern>/servlet/InsertaUsuario</url-pattern>
+	</servlet-mapping>
+</web-app>
