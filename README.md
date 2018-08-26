@@ -2,7 +2,7 @@
 
 ## Java
 
-### Java Básico [[dir](./cursos/Java/)]
+### Java Básico [[dir](./Java)]
 1. Introducción al lenguaje Java
 2. Sintaxis del lenguaje
 3. Clases y métodos
@@ -14,7 +14,7 @@
 9. Enumeradores
 10. Documentación
 
-### Java Avanzado [[dir](./cursos/Java/)]
+### Java Avanzado [[dir](./Java)]
 
 1. Excepciones
 2. Flujos de datos
@@ -24,7 +24,7 @@
 6. Interfaz gráfica de usuario (GUI)
 7. Sockets
 
-### Java Web [[dir](./cursos/Java/)]
+### Java Web [[dir](./Java)]
 
 1. JDBC (Java DataBase Connectivity)
 2. HTML (HyperText Markup Language)
@@ -39,7 +39,7 @@
 
 
 
-## Php [[dir](./cursos/Php/)]
+## Php [[dir](./Php)]
 
 1. Introducción
 2. Gramática, expresiones y variables
@@ -50,7 +50,7 @@
 7. Almacenamiento y recuperación de datos
 8. Sesiones
 
-## Python [[dir](./cursos/Python/)]
+## Python [[dir](./Python)]
 
 1. Introducción
 	+ Sintaxis básica
